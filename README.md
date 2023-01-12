@@ -12,7 +12,7 @@ Este es un CRUD completo creado con lenguaje Python 3
 
 ## Ver ejemplo en vivo
 
-* [https://github.com/OscarACortez/CRUD-Pthon.git](https://github.com/OscarACortez/CRUD-Pthon.git)
+* [https://github.com/OscarACortez/CRUD-Python-completo.git](https://github.com/OscarACortez/CRUD-Python-completo.git)
 
 
 ## Instalación 
